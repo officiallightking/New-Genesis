@@ -6,18 +6,3 @@ visible: true
 parent: "sun"
 solarSystem: "sun"
 difficulty: 4
-sectors: [
-  {
-    name: "sector1",
-    displayName: "Zombie Wasteland",
-    description: "A barren area infested with zombies. Your survival begins here.",
-    difficulty: 2,
-    start: true
-  },
-  {
-    name: "sector2",
-    displayName: "The Red Zone",
-    description: "A dangerous zone with constant waves of zombies.",
-    difficulty: 5
-  }
-]
