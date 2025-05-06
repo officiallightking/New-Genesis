@@ -1,9 +1,14 @@
 name: "Zombie Apocalypse"
-displayName: "Zombie Apocalypse"
+
 description: "A thrilling mod where you survive and fight through a zombie apocalypse.
   Includes new enemies, weapons, and challenges."
+
 author: "lightking"
-version: "1.0.0" #
+
+version: "1.0.0"
 minGameVersion: 146
+
 hidden: false
 dependencies: []
+
+repo: "officiallightking/Zombie-Apocalypse"
