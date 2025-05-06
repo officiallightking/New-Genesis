@@ -3,6 +3,8 @@ displayName: "Undead Planet"
 description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
 unlockable: true
 visible: true
+parent: sun
+solarSystem: sun
 difficulty: 4 # Set difficulty level (1-5)
 sectors: [
   {
