@@ -1,8 +1,6 @@
 name: "undead_planet"
 displayName: "Undead Planet"
-description: """
-  A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!
-"""
+description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
 unlockable: true
 visible: true
 difficulty: 4 # Set difficulty level (1-5)
