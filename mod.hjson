@@ -1,0 +1,14 @@
+name: "Zombie Apocalypse"
+displayName: "Zombie Apocalypse"
+
+description:
+```
+  Zombie apocalypse
+```
+
+author: "lightking"
+
+version: "0.0.0"
+minGameVersion: 146
+
+hidden: false
