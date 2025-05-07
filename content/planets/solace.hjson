@@ -22,10 +22,10 @@ accessible: false
 visible: true
 hasAtmosphere: false
 bloom: true
-orbitSpacing: 1
+orbitSpacing: 8
 solarSystem: solace
 parent: sun
-orbitRadius: 12000
+orbitRadius: 10000
 drawOrbit: false
 tidalLock: true
 iconColor: ffe06f
