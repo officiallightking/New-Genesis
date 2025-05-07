@@ -6,10 +6,10 @@ mesh: {
   divisions: 3
   color1: 335533
   color2: 553333
-  radius: 1
+  radius: 0.85
   octaves: 3
   persistence: 0.8
-  scale: 1
+  scale: 0.5
   mag: 1.5
 }
 
@@ -23,7 +23,7 @@ cloudMesh: {
   octaves: 3
   persistence: 0.5
   scl: 1
-  thresh: 0.3
+  thresh: 1
 }
 
 generator: {
