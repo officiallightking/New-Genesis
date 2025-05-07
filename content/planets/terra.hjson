@@ -23,7 +23,7 @@ cloudMesh: {
   octaves: 8
   persistence: 0.5
   scl: 1
-  thresh: 0.4
+  thresh: 0.5
 }
 
 generator: {
