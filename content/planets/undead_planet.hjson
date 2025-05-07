@@ -2,7 +2,7 @@ name: "undead_planet"
 displayName: "Undead Planet"
 description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
 parent: "serpulo"
-solarSystem: "default"
+solarSystem: "sun"
 unlockable: true
 visible: true
 difficulty: 4
