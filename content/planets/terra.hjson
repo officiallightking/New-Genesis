@@ -16,14 +16,14 @@ mesh: {
 cloudMesh: {
   type: HexSkyMesh
   seed: 80
-  speed: 0.5
+  speed: 0.69
   radius: 0.1
   divisions: 3
   color: 555555
   octaves: 3
   persistence: 0.5
   scl: 0.5
-  thresh: 0.5
+  thresh: 0.38
 }
 
 generator: {
@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 8888aa
+atmosphereColor: 5555aa
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
