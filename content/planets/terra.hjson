@@ -22,7 +22,7 @@ cloudMesh: {
   color: 555555
   octaves: 3
   persistence: 0.5
-  scl: 0.8
+  scl: 0.5
   thresh: 0.5
 }
 
@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 0000aa
+atmosphereColor: 8888aa
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
