@@ -22,33 +22,3 @@ drag: 0.5
 itemCapacity: 15
 alwaysUnlocked: true
 outlineColor: 42413e
-
-weapons: [
-  {
-    x: 0
-    y: -1
-    mirror: false
-    continuous: true
-    alwaysContinuous: true
-    ejectEffect: none
-    shootSound: laserbeam
-    shootY: 1
-    bullet: {
-      collides: true
-      collidesTiles: true
-      collidesAir: true
-      collidesGround: true
-      type: ContinuousFlameBulletType
-      colors: [d46f6b, e48581, ffbe7f, e49e81, ffffff]
-      length: 80
-      width: 1
-      drawFlare: false
-      damageInterval: 15
-      damage: 14
-      buildingDamageMultiplier: 0.01
-      pierceArmor: false
-      pierceCap: 1
-      hitEffect: none
-      despawnEffect: none
-    }
-]
