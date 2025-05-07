@@ -24,7 +24,7 @@ hasAtmosphere: false
 bloom: true
 orbitSpacing: 8
 solarSystem: solace
-parent: solace
+parent: sun
 orbitRadius: 12000
 drawOrbit: false
 tidalLock: true
