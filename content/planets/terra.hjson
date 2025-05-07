@@ -6,7 +6,7 @@ mesh: {
   divisions: 3
   color1: 335533
   color2: 553333
-  radius: 0.5
+  radius: 1
   octaves: 3
   persistence: 0.8
   scale: 1
@@ -17,7 +17,7 @@ cloudMesh: {
   type: HexSkyMesh
   seed: 80
   speed: 0.5
-  radius: 0.05
+  radius: 0.1
   divisions: 3
   color: 5555aa
   octaves: 3
