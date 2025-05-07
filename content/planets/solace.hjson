@@ -22,7 +22,7 @@ accessible: false
 visible: true
 hasAtmosphere: false
 bloom: true
-orbitSpacing: 3
+orbitSpacing: 1
 solarSystem: solace
 parent: sun
 orbitRadius: 12000
