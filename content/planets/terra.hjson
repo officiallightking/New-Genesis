@@ -5,7 +5,8 @@ mesh: {
   seed: 100
   divisions: 3
   color1: 335533
-  color2: 553333
+  color2: 333355
+  color3: 551818
   radius: 0.85
   octaves: 3
   persistence: 0.8
@@ -19,7 +20,7 @@ cloudMesh: {
   speed: 0.5
   radius: 0.1
   divisions: 3
-  color: 5555aa
+  color: 555544
   octaves: 3
   persistence: 0.5
   scl: 0.8
@@ -60,7 +61,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 666699
+atmosphereColor: 553388
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
