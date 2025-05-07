@@ -39,7 +39,7 @@ weapons: [
       pierceCap: 1
       hitEffect: none
       despawnEffect: none
-      range: 5
+      range: 30
     }
   }
 ]
