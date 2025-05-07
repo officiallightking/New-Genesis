@@ -10,11 +10,11 @@ mesh: {
     mag: 0.8
     colorScale: 1
     colors: [
-        ffde80
-        ffa690
-        ff5500
-        ff8c00
-        ffface
+        ffee33
+        ffbb33
+        ff7733
+        FFDD77
+        fff035
     ]
 }
 
