@@ -1,0 +1,24 @@
+type: legs
+legCount: 2
+legLength: 5
+legSpeed: 0.3
+legForwardScl: 0.5
+legMoveSpace: 0.8
+hovering: true
+groundLayer: 60
+name: Overseer
+description: The leader of the origin core. Mines, builds and commands.
+health: 150
+armor: 1
+mineFloor: true
+mineWalls: true
+speed: 1.5
+hitSize: 5
+isEnemy: false
+mineSpeed: 3.5
+mineTier: 1
+buildSpeed: 0.8
+drag: 0.5
+itemCapacity: 15
+alwaysUnlocked: true
+outlineColor: 42413e
