@@ -1,8 +1,35 @@
 name: "undead_planet"
 displayName: "Undead Planet"
 description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
+parent: "serpulo"
+solarSystem: "default"
 unlockable: true
 visible: true
-parent: "sun"
-solarSystem: "sun"
 difficulty: 4
+mesh: {
+  type: "NoiseMesh"
+  seed: 12345
+  scale: 5.0
+  generator: "serpulo"
+}
+clouds: [
+  {
+    type: "DenseClouds"
+    color: "darkGray"
+    opacity: 0.6
+  },
+  {
+    type: "ScatteredClouds"
+    color: "lightGray"
+    opacity: 0.3
+  }
+]
+sectors: [
+  {
+    name: "sector1"
+    displayName: "Zombie Wasteland"
+    description: "A barren area infested with zombies. Your survival begins here."
+    difficulty: 3
+    start: true
+  }
+]
