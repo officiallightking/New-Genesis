@@ -1,7 +1,7 @@
 type: legs
 legCount: 2
 legLength: 5
-legSpeed: 0.3
+legSpeed: 0.1
 legForwardScl: 0.5
 legMoveSpace: 0.8
 hovering: true
@@ -12,10 +12,10 @@ health: 150
 armor: 1
 mineFloor: true
 mineWalls: true
-speed: 1.5
+speed: 1.35
 hitSize: 5
 isEnemy: false
-mineSpeed: 3.5
+mineSpeed: 3
 mineTier: 1
 buildSpeed: 0.8
 drag: 0.5
