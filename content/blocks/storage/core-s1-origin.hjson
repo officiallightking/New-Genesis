@@ -16,5 +16,4 @@ research: {
 planet: "terra"
 root: true
 name: "Terra"
-requiresUnlock: false
-}
+requiresUnlock: false}
