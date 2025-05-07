@@ -49,20 +49,20 @@ generator: {
 
 alwaysUnlocked: true
 sectorSize: 1
-orbitSpacing: 12
+orbitSpacing: 8
 radius: 1
-minZoom: 0.5
+minZoom: 0.35
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 accessible: true
 updateLighting: false
 sectorSeed: 529
-bloom: false
+bloom: true
 visible: true
-atmosphereColor: aaaaaaaa
+atmosphereColor: eeffff
 iconColor: 29302b
-hasAtmosphere: false
+hasAtmosphere: true
 allowWaveSimulation: true
 allowLaunchToNumbered: true
 clearSectorOnLose: true
