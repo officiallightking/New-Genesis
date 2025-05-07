@@ -6,15 +6,13 @@ requirements: [
 isFirstTier: true
 size: 3
 squareSprite: false
-alwaysUnlocked: true
-unitType: 
+alwaysUnlocked: true 
 health: 1500
 itemCapacity: 3000
 unitCapModifier: 5
-category: 
 research: {
-planet: "terra",
-root: true,
-name: "Terra",
-requiresUnlock: false
+  planet: terra
+  root: true
+  name: Terra
+  requiresUnlock: false
 }
