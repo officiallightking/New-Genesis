@@ -27,9 +27,7 @@ weapons: [
   {
     bullet: {
       type: BasicBulletType
-      damage: 100
-      speed: 0.3
-      range: 30
+      damage: 15
     }
   }
 ]
