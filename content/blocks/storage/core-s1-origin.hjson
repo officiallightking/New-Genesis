@@ -10,6 +10,7 @@ alwaysUnlocked: true
 health: 1500
 itemCapacity: 3000
 unitCapModifier: 5
+category: effect
 research: {
   planet: terra
   root: true
