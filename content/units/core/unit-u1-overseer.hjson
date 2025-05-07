@@ -26,8 +26,22 @@ outlineColor: 42413e
 weapons: [
   {
     bullet: {
-      type: MissileBulletType
-      damage: 9000
+      collides: true
+      collidesTiles: true
+      collidesAir: true
+      collidesGround: true
+      type: ContinuousFlameBulletType
+      colors: [d46f6b, e48581, ffbe7f, e49e81, ffffff]
+      length: 80
+      width: 1
+      drawFlare: false
+      damageInterval: 15
+      damage: 15
+      buildingDamageMultiplier: 0.01
+      pierceArmor: false
+      pierceCap: 1
+      hitEffect: none
+      despawnEffect: none
     }
   }
 ]
