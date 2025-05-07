@@ -2,11 +2,11 @@ localizedName: Terra
 
 mesh: {
   type: NoiseMesh
-  seed: 53
+  seed: 100
   divisions: 3
-  color1: 338833
-  color2: 333388
-  radius: 0.8
+  color1: 335533
+  color2: 553333
+  radius: 0.5
   octaves: 3
   persistence: 0.8
   scale: 1
@@ -15,7 +15,7 @@ mesh: {
 
 cloudMesh: {
   type: HexSkyMesh
-  seed: 35
+  seed: 80
   speed: 0.5
   radius: 0.05
   divisions: 3
@@ -51,7 +51,7 @@ alwaysUnlocked: true
 sectorSize: 1
 orbitSpacing: 8
 radius: 1
-minZoom: 0.35
+minZoom: 0.5
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: aaaaee
+atmosphereColor: 666699
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
