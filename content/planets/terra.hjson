@@ -15,7 +15,7 @@ mesh: {
 
 cloudMesh: {
   type: HexSkyMesh
-  seed: 100
+  seed: 1000
   speed: 0.69
   radius: 0.1
   divisions: 3
