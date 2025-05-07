@@ -48,7 +48,7 @@ generator: {
 }
 
 alwaysUnlocked: true
-sectorSize: 5
+sectorSize: 2
 orbitSpacing: 8
 radius: 1
 minZoom: 0.5
