@@ -14,7 +14,7 @@ unitCapModifier: 5
 category: 
 research: {
 planet: "terra"
-root: "true"
+root: true
 name: "Terra"
-requiresUnlock: "false"
+requiresUnlock: false
 }
