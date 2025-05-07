@@ -3,8 +3,8 @@ localizedName: Solace
 mesh: {
     type: SunMesh
     divisions: 3
-    octaves: 4
-    persistence: 0.6
+    octaves: 3
+    persistence: 0.5
     scl: 1
     pow: 1
     mag: 0.5
@@ -22,7 +22,7 @@ accessible: false
 visible: true
 hasAtmosphere: false
 bloom: true
-orbitSpacing: 8
+orbitSpacing: 3
 solarSystem: solace
 parent: sun
 orbitRadius: 12000
