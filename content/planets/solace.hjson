@@ -2,12 +2,12 @@ localizedName: Solace
 
 mesh: {
     type: SunMesh
-    divisions: 3
+    divisions: 5
     octaves: 3
-    persistence: 0.5
+    persistence: 0.8
     scl: 1
     pow: 1
-    mag: 0.5
+    mag: 0.8
     colorScale: 1
     colors: [
         fffce8
