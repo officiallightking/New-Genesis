@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 5555cc
+atmosphereColor: 5555ee
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
