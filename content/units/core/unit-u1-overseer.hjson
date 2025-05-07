@@ -30,7 +30,7 @@ weapons: [
       collidesTiles: true
       collidesAir: true
       collidesGround: true
-      type: ContinuousFlameBulletType
+      type: BulletType
       colors: [d46f6b, e48581, ffbe7f, e49e81, ffffff]
       length: 80
       width: 1
