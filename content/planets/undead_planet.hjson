@@ -3,11 +3,6 @@ displayName: "Undead Planet"
 
 description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
 
-parent: "sun"
-solarSystem: "sun"
-unlockable: true
-visible: true
-
 
 
 clouds: [
@@ -21,4 +16,33 @@ clouds: [
     color: "lightGray"
     opacity: 0.3
   }
+]
+
+alwaysUnlocked: true
+sectorSize: 1
+orbitSpacing: 12
+radius: 1
+minZoom: 0.5
+drawOrbit: true
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+accessible: true
+updateLighting: false
+sectorSeed: 529
+bloom: false
+visible: true
+atmosphereColor: aaaaaaaa
+iconColor: 29302b
+hasAtmosphere: false
+allowWaveSimulation: true
+allowLaunchToNumbered: true
+clearSectorOnLose: true
+allowWaves: true
+icon: planet
+defaultCore: core-nucleus
+parent: sun
+solarSystem: sun
+launchCandidates: []
+itemWhitelist: [
+  copper, lead, beryllium, graphite, titanium
 ]
