@@ -8,6 +8,7 @@ size: 3
 squareSprite: false
 alwaysUnlocked: true 
 health: 1500
+unitType: unit-u1-overseer
 itemCapacity: 3000
 unitCapModifier: 5
 category: effect
