@@ -22,7 +22,7 @@ cloudMesh: {
   color: 5555aa
   octaves: 3
   persistence: 0.5
-  scl: 1
+  scl: 0.8
   thresh: 1
 }
 
