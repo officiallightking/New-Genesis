@@ -1,7 +1,6 @@
-name: "undead_planet"
-displayName: "Undead Planet"
+name: "Dead"
 
-description: "A desolate planet teeming with the undead. Survive the zombie apocalypse and reclaim the land!"
+description: "A desolate planet teeming with the undead."
 
 mesh: {
   type: NoiseMesh
