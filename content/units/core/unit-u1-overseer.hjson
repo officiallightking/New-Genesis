@@ -1,7 +1,7 @@
 type: legs
 legCount: 2
 legLength: 5
-legSpeed: 0.1
+legSpeed: 0.05
 legForwardScl: 0.3
 legMoveSpace: 0.5
 hovering: true
@@ -26,20 +26,8 @@ outlineColor: 42413e
 weapons: [
   {
     bullet: {
-      collides: true
-      collidesTiles: true
-      collidesAir: true
-      collidesGround: true
-      type: BulletType
-      drawFlare: false
-      damageInterval: 15
-      damage: 15
-      buildingDamageMultiplier: 0.01
-      pierceArmor: false
-      pierceCap: 1
-      hitEffect: none
-      despawnEffect: none
-      range: 30
+      type: BasicBulletType
+      damage: 100
     }
   }
 ]
