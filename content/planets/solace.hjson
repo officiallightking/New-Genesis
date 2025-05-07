@@ -10,11 +10,11 @@ mesh: {
     mag: 0.5
     colorScale: 1
     colors: [
-        ffe06f
-        ffe790
-        ffedae
-        fff8c8
-        ffe53b
+        fffae3
+        f8f1e9
+        f9f6ef
+        faf3e0
+        eceff1
     ]
 }
 
