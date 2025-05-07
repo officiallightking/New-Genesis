@@ -4,8 +4,8 @@ mesh: {
   type: NoiseMesh
   seed: 100
   divisions: 3
-  color1: 335533
-  color2: 333355
+  color1: 113311
+  color2: 111133
   radius: 0.85
   octaves: 3
   persistence: 0.8
@@ -19,7 +19,7 @@ cloudMesh: {
   speed: 0.5
   radius: 0.1
   divisions: 3
-  color: 555566
+  color: 555555
   octaves: 3
   persistence: 0.5
   scl: 0.8
@@ -60,7 +60,7 @@ updateLighting: false
 sectorSeed: 529
 bloom: true
 visible: true
-atmosphereColor: 555588
+atmosphereColor: 0000aa
 iconColor: 29302b
 hasAtmosphere: true
 allowWaveSimulation: true
