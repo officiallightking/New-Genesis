@@ -1,58 +1,32 @@
-name: "Dead"
-
-description: "A desolate planet teeming with the undead."
+localizedName: Solace
 
 mesh: {
-  type: NoiseMesh
-  seed: 69
-  divisions: 4
-  color1: a2a2c2
-  color2: 22262b
-  radius: 0.8
-  octaves: 3
-  persistence: 0.8
-  scale: 1
-  mag: 1.5
+    type: SunMesh
+    divisions: 3
+    octaves: 4
+    persistence: 0.6
+    scl: 1
+    pow: 1
+    mag: 0.5
+    colorScale: 1
+    colors: [
+        ffe06f
+        ffe790
+        ffedae
+        fff8c8
+        ffe53b
+    ]
 }
 
-clouds: [
-  {
-    type: "DenseClouds"
-    color: "darkGray"
-    opacity: 0.6
-  },
-  {
-    type: "ScatteredClouds"
-    color: "lightGray"
-    opacity: 0.3
-  }
-]
-
-alwaysUnlocked: true
-sectorSize: 1
-orbitSpacing: 12
-radius: 1
-minZoom: 0.5
-drawOrbit: true
-atmosphereRadIn: 0
-atmosphereRadOut: 0.3
-accessible: true
-updateLighting: false
-sectorSeed: 529
-bloom: false
+accessible: false
 visible: true
-atmosphereColor: aaaaaaaa
-iconColor: 29302b
 hasAtmosphere: false
-allowWaveSimulation: true
-allowLaunchToNumbered: true
-clearSectorOnLose: true
-allowWaves: true
-icon: planet
-defaultCore: core-nucleus
-parent: sun
-solarSystem: sun
-launchCandidates: []
-itemWhitelist: [
-  copper, lead, beryllium, graphite, titanium
-]
+bloom: true
+orbitSpacing: 8
+solarSystem: solace
+parent: solace
+orbitRadius: 12000
+drawOrbit: false
+tidalLock: true
+iconColor: ffe06f
+icon: commandRally
