@@ -22,13 +22,3 @@ drag: 0.5
 itemCapacity: 15
 alwaysUnlocked: true
 outlineColor: 42413e
-
-weapons: [
-  {
-    bullet: {
-      type: BasicBulletType
-      damage: 15
-      speed: 3.85
-    }
-  }
-]
