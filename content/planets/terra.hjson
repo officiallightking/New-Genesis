@@ -71,6 +71,7 @@ icon: planet
 defaultCore: core-nucleus
 parent: solace
 solarSystem: solace
+sectorStart: 0
 launchCandidates: []
 itemWhitelist: [
   copper, lead, beryllium, graphite, titanium
