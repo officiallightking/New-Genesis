@@ -3,7 +3,7 @@ localizedName: Terra
 mesh: {
   type: NoiseMesh
   seed: 69
-  divisions: 10
+  divisions: 5
   color1: a2a2c2
   color2: 22262b
   radius: 0.8
