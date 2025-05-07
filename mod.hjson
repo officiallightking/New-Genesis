@@ -1,7 +1,7 @@
-name: "Zombie Apocalypse"
+name: "New Genesis"
+subtitle: "A new beginning arose."
 
-description: "A thrilling mod where you survive and fight through a zombie apocalypse.
-  Includes new enemies, weapons, and challenges."
+description: "Test."
 
 author: "lightking"
 
@@ -11,4 +11,4 @@ minGameVersion: 146
 hidden: false
 dependencies: []
 
-repo: "officiallightking/Zombie-Apocalypse"
+repo: "officiallightking/New-Genesis"
