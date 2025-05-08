@@ -22,4 +22,4 @@ drag: 0.5
 itemCapacity: 15
 alwaysUnlocked: true
 outlineColor: 42413e
-icon: unit-u1-overseer-ui
+uiIcon: unit-u1-overseer-ui
